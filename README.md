@@ -43,14 +43,8 @@ To run the experiments, simply execute the `run.sh` script:
 ## Acknowledgments
 
 This code is based on the paper **"How does noise help robustness? Explanation and exploration under the neural SDE framework"** by Liu et al. (CVPR 2020).  
-If you use this code, please consider citing the original paper:
 
-    ```bibtex
-    @inproceedings{liu2020noise,
-      title={How does noise help robustness? Explanation and exploration under the neural SDE framework},
-      author={Liu, Xuanqing and Xiao, Tesi and Si, Si and Cao, Qin and Kumar, Sanjiv and Hsieh, Cho-Jui},
-      booktitle={2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      pages={279-287},
-      year={2020}
-    }
-    ```
+If you use this code, please consider citing both the original paper and this repository:
+
+- **Original Paper**: Liu, Xuanqing, et al. "How does noise help robustness? Explanation and exploration under the neural SDE framework." CVPR 2020.  
+- **GitHub Repository**: [Link](https://github.com/jonghun-lee0/NSDE)
